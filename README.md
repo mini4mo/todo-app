@@ -34,7 +34,7 @@
 
 bash
 Copy
-git clone https://github.com/ваш-репозиторий/todo-app.git
+git clone https://github.com/mini4mo/todo-app.git
 Перейдите в папку проекта:
 
 bash
